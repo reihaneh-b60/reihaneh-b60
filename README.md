@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @reihaneh-b60
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning blockchain developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me to get proffessional in solidity and blockchain
 
